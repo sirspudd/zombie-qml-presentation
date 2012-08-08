@@ -106,7 +106,7 @@ Item {
         sizeVariation: 2
 
         acceleration: AngleDirection { angle: 90; angleVariation: 360; magnitude: 20; }
-        speed: AngleDirection { angle: -90; angleVariation: 360; magnitude: 10; }
+        velocity: AngleDirection { angle: -90; angleVariation: 360; magnitude: 10; }
 
     }
 
